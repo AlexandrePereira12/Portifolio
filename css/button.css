@@ -1,0 +1,20 @@
+button{
+    margin-bottom: 35px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50px;
+    font-size: 1.8em;
+    width: 30%;
+    margin-left: 35%;
+    border-color: rgb(0, 0, 0);
+    transition: 0.3s ease-in-out;
+}
+
+.project{
+    color: black;
+}
+
+button:hover{
+    border-color:#0ae6ee;
+
+}
